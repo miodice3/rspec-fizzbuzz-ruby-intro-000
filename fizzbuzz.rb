@@ -7,11 +7,13 @@ def fizzbuzz(int)
   "FizzBuzz"
   #puts "FizzBuzz"
   #return
+end
   
   
   else  if int % 3 == 0 # if the number int is divisible by 3
   #  puts "Fizz" 
   "Fizz"
+end
 
 
   else  int % 5 == 0 # if the number int is divisible by 5
